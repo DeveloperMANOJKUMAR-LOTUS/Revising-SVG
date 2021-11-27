@@ -4,4 +4,5 @@
 
 * defs
 * use 
-* 
+* clip path
+* pattern
